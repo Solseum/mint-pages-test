@@ -1,0 +1,1 @@
+# mint-pages-test
